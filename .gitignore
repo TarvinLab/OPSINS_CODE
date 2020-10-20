@@ -1,14 +1,12 @@
 pumilio/genome_wide_LWS_search_pos_control/nanoranaDB/nanorana.0.nsq
 pumilio/genome_wide_LWS_search_pos_control/infiles/rna.fa
 pumilio/genome_wide_SWS2_search/nanoranaDB/nanorana.0.nsq
-pumilio/genome_wide_SWS2_search/infiles/rna.fa
 pumilio/synteny/OophagaDB/Oophaga.0.00.nsq
 pumilio/synteny/OophagaDB/Oophaga.0.01.nsq
 pumilio/synteny/OophagaDB/Oophaga.0.00.nhr
 pumilio/synteny/pumilio_data/Oophaga_pumilio_P_RNA-scaffolded_genome.fasta
 pumilio/synteny/pumilio_data/Oophaga.clean.newest.fa
 rhinella/genome_wide_SWS2_search/nanoranaDB/nanorana.0.nsq
-rhinella/genome_wide_SWS2_search/infiles/rna.fa
 rhinella/synteny/OophagaDB/Oophaga.0.nsq
 rhinella/synteny/output/mafft.alignedLWS.fa
 rhinella/synteny/output/mafft.aligned_all.fa
