@@ -21,6 +21,9 @@ mafft  output/SWS2_in_tree.noHyph.With_tblastn.translated.fasta  >  output/SWS2_
 # the options in mafft and subsetting the aligments down to the regions of highest sequence similarity), but none of the trees suggested that
 # any of the candidate sequences were likely to be SWS2 pseudogenes
 
+#make nanorana database
+python2 make_blast_db.py infiles/rna.fa 0
+
 # check for orhologs using blast with nanorana
 python2 run_blast.nanorana.py nanoranaDB/nanorana.0 6
 
