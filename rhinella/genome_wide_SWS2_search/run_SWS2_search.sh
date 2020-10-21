@@ -13,6 +13,9 @@ python2 make_fasta_from_tblastn7.py 1e-10 output/SWS2_results.7.tblastn.txt ../s
 mafft  output/SWS2_in_tree.noHyph.With_tblastn.translated.fasta  >  output/SWS2_in_tree.noHyph.With_tblastn.translated.mafft.fasta 
 # visualize alignments in UGENE or similar viewer if desired.
 
+#make nanorana database
+python2 make_blast_db.py infiles/rna.fa 0
+
 # check for orhologs using blast with nanorana
 python2 run_blast.nanorana.py nanoranaDB/nanorana.0 6
 
