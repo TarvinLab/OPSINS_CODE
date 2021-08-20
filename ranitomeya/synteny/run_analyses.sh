@@ -9,14 +9,14 @@
 # gunzip the file Oophaga.clean.newest.fa.gz and put it in the folder pumilio_data
  
 # Make blast db
-python3.6 make_blast_db.py /Users/rdtarvin/Downloads/genome_assemblies_genome_fasta/ncbi-genomes-2021-08-20/GCA_905332335.1_Ranitomeya_imitator_genomeassembly_1.0_genomic.fna 0
+#python3.6 make_blast_db.py /Users/rdtarvin/Downloads/genome_assemblies_genome_fasta/ncbi-genomes-2021-08-20/GCA_905332335.1_Ranitomeya_imitator_genomeassembly_1.0_genomic.fna 0
 
 # running blast to determine the scaffold that contains LWS
-python2.7 run_blast.py RanitomeyaDB/Ranitomeya.0 0 6
+#python2.7 run_blast.py RanitomeyaDB/Ranitomeya.0 0 6
 
 # find LWS scaffold at 1e-20 threshold
 myvar=$(cat output/LWS_results.0.6.txt | awk '{if($11 < 1e-20) print $2}'| sort | uniq)
-
+echo $myvar | awk '{print $2}'
 # find LWS and reverse complement
 python2.7 get_LWS_scaffolds.py /Users/rdtarvin/Downloads/genome_assemblies_genome_fasta/ncbi-genomes-2021-08-20/GCA_905332335.1_Ranitomeya_imitator_genomeassembly_1.0_genomic.fna $myvar > output/LWS_scaffold.fa
 

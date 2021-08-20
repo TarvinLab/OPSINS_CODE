@@ -7,7 +7,8 @@ if len(sys.argv) < 3:
     exit()
 
 # SET TO BLAST LOCATION ON YOUR MACHINE
-blast_DB_loc = '/usr/local/ncbi/bin/makeblastdb'
+#blast_DB_loc = '/usr/local/ncbi/bin/makeblastdb'
+blast_DB_loc = "/Users/rdtarvin/miniconda3/bin/makeblastdb"
 i = sys.argv[2]
 
 arg1 = '-out RanitomeyaDB/Ranitomeya.'+i

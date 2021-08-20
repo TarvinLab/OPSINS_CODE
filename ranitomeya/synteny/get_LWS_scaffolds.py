@@ -1,7 +1,7 @@
 import sys
 
 def comp(s):
-    compdict = {"A":"T", "T":"A", "C":"G", "G":"C", "N":"N"}
+    compdict = {"A":"T", "T":"A", "C":"G", "G":"C", "N":"N","a":"t","t":"a","c":"g","g":"c","n":"n"}
     retstr = ""
     for i in range(0,len(s)):
         retstr += compdict[s[i]]
@@ -10,11 +10,12 @@ def comp(s):
 fh = open(sys.argv[1],'r')
 
 scaf = ">"+sys.argv[2].strip()
+#print scaf
 
 pr = 0
 mystr = ""
 for line in fh:
-    if line.strip() == scaf:
+    if line.split(' ')[0] == scaf:
         pr = 1
         print line.strip()
         continue

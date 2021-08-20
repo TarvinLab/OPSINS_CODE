@@ -74,6 +74,7 @@ for line in fh:
         rt = 1
 
     if data[1] in scaffs:
+#	print data[1]
         scaffs[data[1]].append([float(data[10]), st-1, end, rt])
     else:
         scaffs[data[1]] = [[float(data[10]), st-1, end, rt]]
@@ -82,6 +83,8 @@ for line in fh:
 #    print scaff, scaffs[scaff]
 
 fh.close()
+
+print scaffs
 # next get the sequences for the scaffolds using the corrdinates
 
 fh = open(sys.argv[3],'r')
@@ -91,29 +94,46 @@ pr = 0
 scaff = ''
 for line in fh:
     if line[0] == ">":
-        if line.strip()[1:] in scaffs:
-            scaff = line.strip()[1:]  
+#	print line.split(' ')[0]
+        if line.split(' ')[0][1:] in scaffs:
+            scaff = line.split(' ')[0][1:]  
+            #print scaff
             pr = 1
             continue
     if pr ==1 and line[0] != ">":
+#    	print "The sequence should be saved %s for %s" %(line,scaff)
         if scaff in scaff_seqs:
-            scaff_seqs[scaff]+=line.strip()
+            scaff_seqs[scaff]+=line.upper().strip()
         else:
-            scaff_seqs[scaff]=line.strip()
+            scaff_seqs[scaff]=line.upper().strip()
     if line[0] == ">" and pr == 1:
        pr = 0
        scaff = ''
 
+print "moving to subset sequences"
+
 # subset the sequences
 for scaff in scaffs:
-    print ">"+scaff
     myseq = ''
-    for coords in scaffs[scaff]:
-        if coords[3] == 0:
-            myseq += scaff_seqs[scaff][coords[1]:coords[2]]
+    for coordsall in scaffs[scaff]:
+        if len(coordsall)>1:
+            for coords in coordsall:
+                print ">"+scaff+' '+coords
+#                 print coords
+                if coords[3] == 0:
+                    myseq += scaff_seqs[scaff][coords[1]:coords[2]]
+                else:
+                    myseq += rev_comp(scaff_seqs[scaff][coords[1]:coords[2]])
+            	print translate(myseq)
         else:
-            myseq += rev_comp(scaff_seqs[scaff][coords[1]:coords[2]])
-    print translate(myseq)
+            coords = coordsall
+            print ">"+scaff+' '+coords
+            print coords
+            if coords[3] == 0:
+                myseq += scaff_seqs[scaff][coords[1]:coords[2]]
+            else:
+                myseq += rev_comp(scaff_seqs[scaff][coords[1]:coords[2]])
+            print translate(myseq)
 
 
 
