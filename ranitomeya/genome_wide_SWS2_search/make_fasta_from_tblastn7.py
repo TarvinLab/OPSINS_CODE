@@ -84,7 +84,7 @@ for line in fh:
 
 fh.close()
 
-print scaffs
+# print scaffs
 # next get the sequences for the scaffolds using the corrdinates
 
 fh = open(sys.argv[3],'r')

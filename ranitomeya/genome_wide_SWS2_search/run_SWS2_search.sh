@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # make protein sequences from nucloetide fasta
-#python2.7 translate_fasta.py infiles/SWS2_in_tree.noHyph.fasta > output/SWS2_in_tree.noHyph.With_tblastn.translated.fasta
+python2.7 translate_fasta.py infiles/SWS2_in_tree.noHyph.fasta > output/SWS2_in_tree.noHyph.With_tblastn.translated.fasta
 
 # run a blast on the SWS2 sequences using the Oophaga databse
 python2.7 run_blast.SWS2.protein.py ../synteny/RanitomeyaDB/Ranitomeya.0 7 
