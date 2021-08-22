@@ -4,10 +4,10 @@
 python translate_fasta.py infiles/LWS_in_tree.noHyph.fasta > output/LWS_in_tree.noHyph.With_tblastn.translated.fasta
 
 # run a blast on the SWS2 sequences using the Oophaga databse
-python run_blast.LWS.protein.py ../synteny/OophagaDB/Oophaga.0 7 
+python run_blast.LWS.protein.py ../synteny/RanitomeyaDB/Ranitomeya.0 7 
 
 # make a fasta that nw includes the results of the blast search, using hits with evals < 1e-10
-python make_fasta_from_tblastn7.py 1e-10 output/LWS_results.7.tblastn.txt ../synteny/pumilio_data/Oophaga.clean.newest.fa >> output/LWS_in_tree.noHyph.With_tblastn.translated.fasta 
+python make_fasta_from_tblastn7.py 1e-10 output/LWS_results.7.tblastn.txt /Users/rdtarvin/Downloads/genome_assemblies_genome_fasta/ncbi-genomes-2021-08-20/GCA_905332335.1_Ranitomeya_imitator_genomeassembly_1.0_genomic.fna >> output/LWS_in_tree.noHyph.With_tblastn.translated.fasta 
 
 # align results of BLAST to SWS2 sequences
 mafft  output/LWS_in_tree.noHyph.With_tblastn.translated.fasta  >  output/LWS_in_tree.noHyph.With_tblastn.translated.mafft.fasta 
