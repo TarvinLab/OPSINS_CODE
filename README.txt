@@ -7,6 +7,8 @@ The rhinella marina genome is too large to be shared on github -- you can find t
 
 The pumilio genome is available at https://zenodo.org/record/3696842#.XuHmN0GxWUk
 
-The annotated ortholog files (i.e., the lowest blast E-value with Nanorana) are locted in pumilio/genome_wide_SWS2_search/output/most_similar_gene_in_nanorana.xls and rhinella/genome_wide_SWS2_search/output/most_similar_gene_in_nanorana.xls
+The ranitomeya genome is available at https://www.ncbi.nlm.nih.gov/assembly/GCA_905332335.1/
+
+The annotated ortholog files (i.e., the lowest blast E-value with Nanorana) are locted in pumilio/genome_wide_SWS2_search/output/most_similar_gene_in_nanorana.xls and rhinella/genome_wide_SWS2_search/output/most_similar_gene_in_nanorana.xls ranitomeya/genome_wide_SWS2_search/output/most_similar_gene_in_nanorana.xls
 
 
