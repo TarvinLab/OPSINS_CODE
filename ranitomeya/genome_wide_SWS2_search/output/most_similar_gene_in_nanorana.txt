@@ -1,41 +1,78 @@
-Mantidactylus_betsileanus_SWS2_SRR5115160	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Brachycephalus_pernix_SWS2_DZUP556A38	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Limnodynastes_peronii_SWS2_SRX5507031	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Rhinella_spinulosa_SWS2_SRX456145	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Iranodon_persicus_SWS2_SRX3347490M	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Rana_pipiens_SWS2_SRR1185907	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Centrolene_heloderma_SWS2_SC611	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Rhinella_marina_SWS2_ONZH01019223	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Atelopus_ignescens_SWS2_SC5694	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Hyla_cinerea_SWS2_SRR3498302	gi|1072261743|ref|XM_018560713.1|	2.83e-135	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Agalychnis_spurrelli_SWS2_1078	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Atelopus_flavescens_SWS2_AF1845	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Atelopus_spumarius_SWS2_SC419	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Osornophryne_antisana_SWS2_SC5957	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Pleurodeles_waltl_SWS2_SRX3156544	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Notophthalmus_viridescens_SWS2_Abdullayevetal2013	gi|1072261743|ref|XM_018560713.1|	1e-177	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Ambystoma_mexicanum_SWS2_LC180361	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Hynobius_retardatus_SWS2_LE209074	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Ambystoma_tigrinum_SWS2_LC180360	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Rana_temporaria_SWS2_GGNS01058246	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Rana_catesbeiana_SWS2_AB0100851	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Brachycephalus_pombali_SWS2_DZUP215MP3	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Nanorana_parkeri_SWS2_XM0185607131	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Salamandra_infraimmaculata_SWS2_SRX2775495M	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Lithodytes_lineatus_SWS2_RDT0066	gi|1072261743|ref|XM_018560713.1|	7.94e-70	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Pelobates_cultripes_SWS2_GHBH01107070	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Craugastor_longirostris_SWS2_SC5733	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Brachycephalus_brunneus_SWS2_DZUP511BPT5	gi|1072261743|ref|XM_018560713.1|	5.32e-137	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Microhyla_fissipes_SWS2_GECV01025975	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Hyla_arborea_SWS2_SRR2157967	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Adenomera_andreae_SWS2_SC6428	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Xenopus_laevis_SWS2_NM0010891421	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Atelopus_spurrelli_SWS2_RDT0130	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Pyxicephalus_adspersus_SWS2_PZQJ01000014	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Atelopus_glyphus_SWS2_RDT0354	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Oreolalax_rhodostigmatus_SWS2_SRX3371949	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Scaphiopus_couchii_SWS2_GHBO01125588	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Ceratophrys_cornuta_SWS2_JCS	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Cynops_pyrrhogaster_SWS2_AB0401481	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Brachycephalus_boticario_SWS2_DZUP444	gi|1072261743|ref|XM_018560713.1|	6.36e-108	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
-Mantella_baroni_SWS2_LC180362	gi|1072261743|ref|XM_018560713.1|	0.0	PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA
+Adenomera_andreae_SWS2_SC6428	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Agalychnis_spurrelli_SWS2_1078	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Ambystoma_mexicanum_SWS2_LC180361	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Ambystoma_tigrinum_SWS2_LC180360	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Atelopus_flavescens_SWS2_AF1845	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Atelopus_glyphus_SWS2_RDT0354	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Atelopus_ignescens_SWS2_SC5694	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Atelopus_spumarius_SWS2_SC419	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Atelopus_spurrelli_SWS2_RDT0130	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Brachycephalus_boticario_SWS2_DZUP444	gi|1072261743|ref|XM_018560713.1|	6.36E-108	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Brachycephalus_brunneus_SWS2_DZUP511BPT5	gi|1072261743|ref|XM_018560713.1|	5.32E-137	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Brachycephalus_pernix_SWS2_DZUP556A38	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Brachycephalus_pombali_SWS2_DZUP215MP3	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+"CAJOBX010001114.1_[3.51e-12,_149572,_150466,_0]"	gi|1072284525|ref|XM_018573067.1|	1.64E-89	"PREDICTED: Nanorana parkeri neuropeptide Y receptor type 4-like (LOC108801114), mRNA"
+"CAJOBX010001538.1_[6.5e-15,_21990,_22869,_1]"	gi|1072279479|ref|XM_018570331.1|	0	"PREDICTED: Nanorana parkeri somatostatin receptor 2 (SSTR2), mRNA"
+"CAJOBX010003901.1_[6e-11,_30860,_31793,_0]"	gi|1072259916|ref|XM_018559713.1|	0	"PREDICTED: Nanorana parkeri neuropeptide Y receptor Y2 (NPY2R), mRNA"
+"CAJOBX010006235.1_[1.21e-11,_50533,_50779,_0]"	gi|1072260864|ref|XM_018560231.1|	7.46E-121	"PREDICTED: Nanorana parkeri pinopsin-like (LOC108790053), mRNA"
+"CAJOBX010006235.1_[2.51e-22,_42452,_42785,_0]"	gi|1072260864|ref|XM_018560231.1|	3.96E-70	"PREDICTED: Nanorana parkeri pinopsin-like (LOC108790053), mRNA"
+"CAJOBX010006668.1_[2.85e-11,_23030372,_23031347,_0]"	gi|1072264038|ref|XM_018561964.1|	3.19E-152	"PREDICTED: Nanorana parkeri sphingosine-1-phosphate receptor 1 (S1PR1), mRNA"
+"CAJOBX010007002.1_[2.63e-12,_406137,_406959,_0]"	gi|1072256178|ref|XM_018557697.1|	5.35E-95	"PREDICTED: Nanorana parkeri C-C motif chemokine receptor 6 (CCR6), mRNA"
+"CAJOBX010007113.1_[1.93e-13,_601816,_602668,_1]"	gi|1072242458|ref|XM_018566712.1|	1.91E-163	"PREDICTED: Nanorana parkeri somatostatin receptor type 4-like (LOC108795462), mRNA"
+"CAJOBX010007158.1_[1.15e-21,_130509,_130746,_0]"	gi|1072262086|ref|XM_018560899.1|	6.97E-42	"PREDICTED: Nanorana parkeri pinopsin-like (LOC108790594), mRNA"
+"CAJOBX010007158.1_[1.16e-16,_118592,_118778,_0]"	gi|1072262086|ref|XM_018560899.1|	5.96E-40	"PREDICTED: Nanorana parkeri pinopsin-like (LOC108790594), mRNA"
+"CAJOBX010007180.1_[1.44e-17,_398482,_398764,_0]"	gi|1072251659|ref|XM_018555250.1|	1.11E-118	"PREDICTED: Nanorana parkeri parapinopsin-like (LOC108786042), mRNA"
+"CAJOBX010007180.1_[2.29e-22,_392224,_392560,_0]"	gi|1072251659|ref|XM_018555250.1|	3.11E-67	"PREDICTED: Nanorana parkeri parapinopsin-like (LOC108786042), mRNA"
+"CAJOBX010011113.1_[2.12e-12,_13707184,_13708063,_0]"	gi|1072266844|ref|XM_018563491.1|	4.85E-94	"PREDICTED: Nanorana parkeri G protein-coupled receptor 17 (GPR17), mRNA"
+"CAJOBX010011392.1_[5.21e-12,_381201,_382035,_0]"	gi|1072242458|ref|XM_018566712.1|	0	"PREDICTED: Nanorana parkeri somatostatin receptor type 4-like (LOC108795462), mRNA"
+"CAJOBX010013533.1_[1.4e-12,_15655,_15988,_1]"	gi|1072279157|ref|XM_018570157.1|	1.34E-41	"PREDICTED: Nanorana parkeri parapinopsin-like (LOC108798409), partial mRNA"
+"CAJOBX010017724.1_[1.6e-35,_95096,_95600,_0]"	gi|1072251612|ref|XM_018555227.1|	8.63E-68	"PREDICTED: Nanorana parkeri rhodopsin (RHO), mRNA"
+"CAJOBX010017724.1_[3.01e-14,_94362,_94557,_0]"	gi|1072251612|ref|XM_018555227.1|	2.55E-102	"PREDICTED: Nanorana parkeri rhodopsin (RHO), mRNA"
+"CAJOBX010017724.1_[3.14e-18,_92924,_93353,_0]"	gi|1072251612|ref|XM_018555227.1|	9.11E-71	"PREDICTED: Nanorana parkeri rhodopsin (RHO), mRNA"
+"CAJOBX010018113.1_[2.29e-21,_1218846,_1219116,_1]"	gi|1072261745|ref|XM_018560714.1|	3.33E-44	"PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA"
+"CAJOBX010018668.1_[2.78e-12,_220896,_221478,_0]"	gi|1072262944|ref|XM_018561364.1|	4.99E-111	"PREDICTED: Nanorana parkeri alpha-1A adrenergic receptor-like (LOC108791007), mRNA"
+"CAJOBX010026903.1_[1.54e-14,_269094,_269271,_1]"	gi|1072261797|ref|XM_018560743.1|	1.48E-89	"PREDICTED: Nanorana parkeri opsin 1 (cone pigments), short-wave-sensitive (OPN1SW), mRNA"
+"CAJOBX010026903.1_[4.84e-17,_274641,_275001,_1]"	gi|1072261797|ref|XM_018560743.1|	1.61E-54	"PREDICTED: Nanorana parkeri opsin 1 (cone pigments), short-wave-sensitive (OPN1SW), mRNA"
+"CAJOBX010026903.1_[5.13e-22,_247160,_247409,_1]"	gi|1072261797|ref|XM_018560743.1|	1.82E-50	"PREDICTED: Nanorana parkeri opsin 1 (cone pigments), short-wave-sensitive (OPN1SW), mRNA"
+"CAJOBX010027224.1_[1.44e-12,_276461,_276830,_1]"	gi|1072277166|ref|XM_018569073.1|	2.32E-68	"PREDICTED: Nanorana parkeri opsin-VA-like (LOC108797475), mRNA"
+"CAJOBX010027224.1_[1e-16,_205797,_206043,_1]"	gi|1072277166|ref|XM_018569073.1|	9.93E-51	"PREDICTED: Nanorana parkeri opsin-VA-like (LOC108797475), mRNA"
+"CAJOBX010027224.1_[4.15e-15,_257694,_257925,_1]"	gi|1072277166|ref|XM_018569073.1|	4.55E-48	"PREDICTED: Nanorana parkeri opsin-VA-like (LOC108797475), mRNA"
+"CAJOBX010030001.1_[6.98e-15,_8348643,_8349498,_0]"	gi|1072259916|ref|XM_018559713.1|	1.59E-159	"PREDICTED: Nanorana parkeri neuropeptide Y receptor Y2 (NPY2R), mRNA"
+"CAJOBX010034670.1_[3.8e-19,_31433,_32369,_1]"	gi|1072251102|ref|XM_018554953.1|	0	"PREDICTED: Nanorana parkeri neuropeptide Y receptor type 2-like (LOC108785804), mRNA"
+"CAJOBX010043875.1_[6.82e-15,_4761,_5094,_0]"	gi|1072279157|ref|XM_018570157.1|	1.75E-71	"PREDICTED: Nanorana parkeri parapinopsin-like (LOC108798409), partial mRNA"
+"CAJOBX010072048.1_[2.29e-22,_15332478,_15333183,_1]"	gi|1072261797|ref|XM_018560743.1|	5.46E-53	"PREDICTED: Nanorana parkeri opsin 1 (cone pigments), short-wave-sensitive (OPN1SW), mRNA"
+"CAJOBX010072048.1_[4.38e-19,_15331446,_15331668,_1]"	gi|1072261797|ref|XM_018560743.1|	1.64E-97	"PREDICTED: Nanorana parkeri opsin 1 (cone pigments), short-wave-sensitive (OPN1SW), mRNA"
+"CAJOBX010072048.1_[5.51e-15,_15331997,_15332231,_1]"	gi|1072261797|ref|XM_018560743.1|	6.88E-96	"PREDICTED: Nanorana parkeri opsin 1 (cone pigments), short-wave-sensitive (OPN1SW), mRNA"
+"CAJOBX010072117.1_[8.99e-14,_9219,_10086,_1]"	gi|1072265926|ref|XM_018562991.1|	4.91E-133	"PREDICTED: Nanorana parkeri C5a anaphylatoxin chemotactic receptor 1-like (LOC108792253), mRNA"
+"CAJOBX010072427.1_[9.66e-19,_66181,_66439,_1]"	gi|1072261745|ref|XM_018560714.1|	4.42E-51	"PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA"
+"CAJOBX010072493.1_[2.69e-34,_280471,_280978,_1]"	gi|1072251612|ref|XM_018555227.1|	4.60E-63	"PREDICTED: Nanorana parkeri rhodopsin (RHO), mRNA"
+"CAJOBX010072493.1_[5.8e-14,_282063,_282279,_1]"	gi|1072251612|ref|XM_018555227.1|	1.26E-93	"PREDICTED: Nanorana parkeri rhodopsin (RHO), mRNA"
+"CAJOBX010072493.1_[9.41e-22,_283690,_284044,_1]"	gi|1072251612|ref|XM_018555227.1|	9.07E-62	"PREDICTED: Nanorana parkeri rhodopsin (RHO), mRNA"
+Centrolene_heloderma_SWS2_SC611	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Ceratophrys_cornuta_SWS2_JCS	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Craugastor_longirostris_SWS2_SC5733	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Cynops_pyrrhogaster_SWS2_AB0401481	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Hyla_arborea_SWS2_SRR2157967	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Hyla_cinerea_SWS2_SRR3498302	gi|1072261743|ref|XM_018560713.1|	2.83E-135	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Hynobius_retardatus_SWS2_LE209074	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Iranodon_persicus_SWS2_SRX3347490M	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Limnodynastes_peronii_SWS2_SRX5507031	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Lithodytes_lineatus_SWS2_RDT0066	gi|1072261743|ref|XM_018560713.1|	7.94E-70	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Mantella_baroni_SWS2_LC180362	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Mantidactylus_betsileanus_SWS2_SRR5115160	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Microhyla_fissipes_SWS2_GECV01025975	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Nanorana_parkeri_SWS2_XM0185607131	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Notophthalmus_viridescens_SWS2_Abdullayevetal2013	gi|1072261743|ref|XM_018560713.1|	1.00E-177	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Oreolalax_rhodostigmatus_SWS2_SRX3371949	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Osornophryne_antisana_SWS2_SC5957	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Pelobates_cultripes_SWS2_GHBH01107070	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Pleurodeles_waltl_SWS2_SRX3156544	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Pyxicephalus_adspersus_SWS2_PZQJ01000014	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Rana_catesbeiana_SWS2_AB0100851	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Rana_pipiens_SWS2_SRR1185907	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Rana_temporaria_SWS2_GGNS01058246	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Rhinella_marina_SWS2_ONZH01019223	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Rhinella_spinulosa_SWS2_SRX456145	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Salamandra_infraimmaculata_SWS2_SRX2775495M	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Scaphiopus_couchii_SWS2_GHBO01125588	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"
+Xenopus_laevis_SWS2_NM0010891421	gi|1072261743|ref|XM_018560713.1|	0	"PREDICTED: Nanorana parkeri blue-sensitive opsin-like (LOC108790454), mRNA"

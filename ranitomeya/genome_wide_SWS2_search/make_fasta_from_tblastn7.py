@@ -44,8 +44,8 @@ def translate(seq):
         'GGA':'G', 'GGC':'G', 'GGG':'G', 'GGT':'G', 
         'TCA':'S', 'TCC':'S', 'TCG':'S', 'TCT':'S', 
         'TTC':'F', 'TTT':'F', 'TTA':'L', 'TTG':'L', 
-        'TAC':'Y', 'TAT':'Y', 'TAA':'_', 'TAG':'_', 
-        'TGC':'C', 'TGT':'C', 'TGA':'_', 'TGG':'W', 
+        'TAC':'Y', 'TAT':'Y', 'TAA':'X', 'TAG':'X', 
+        'TGC':'C', 'TGT':'C', 'TGA':'X', 'TGG':'W', 
     } 
     protein ="" 
     if len(seq)%3 == 0: 
@@ -110,30 +110,30 @@ for line in fh:
        pr = 0
        scaff = ''
 
-print "moving to subset sequences"
+# print "moving to subset sequences"
 
 # subset the sequences
 for scaff in scaffs:
     myseq = ''
     for coordsall in scaffs[scaff]:
-        if len(coordsall)>1:
-            for coords in coordsall:
-                print ">"+scaff+' '+coords
-#                 print coords
-                if coords[3] == 0:
-                    myseq += scaff_seqs[scaff][coords[1]:coords[2]]
-                else:
-                    myseq += rev_comp(scaff_seqs[scaff][coords[1]:coords[2]])
-            	print translate(myseq)
+#         if len(coordsall)>1:
+#             for coords in coordsall:
+#                 print ">"+scaff+' '+str(coords)
+# #                 print coords
+#                 if coords[3] == 0:
+#                     myseq += scaff_seqs[scaff][coords[1]:coords[2]]
+#                 else:
+#                     myseq += rev_comp(scaff_seqs[scaff][coords[1]:coords[2]])
+#             	print translate(myseq)
+#         else:
+        coords = coordsall
+        print ">"+scaff+'_'+str(coords)
+#             print coords
+        if coords[3] == 0:
+            myseq += scaff_seqs[scaff][coords[1]:coords[2]]
         else:
-            coords = coordsall
-            print ">"+scaff+' '+coords
-            print coords
-            if coords[3] == 0:
-                myseq += scaff_seqs[scaff][coords[1]:coords[2]]
-            else:
-                myseq += rev_comp(scaff_seqs[scaff][coords[1]:coords[2]])
-            print translate(myseq)
+            myseq += rev_comp(scaff_seqs[scaff][coords[1]:coords[2]])
+        print translate(myseq)
 
 
 
