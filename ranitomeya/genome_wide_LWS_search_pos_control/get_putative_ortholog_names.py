@@ -33,6 +33,6 @@ for line in fh:
             gene_names[gene] = line.strip().split('|')[4][1:]
 
 for gene in gene_matches:
-    print (gene+'\t'+gene_matches[gene][0]+'\t'+str(gene_matches[gene][1])+'\t'+gene_names[gene] )
+    print gene+'\t'+gene_matches[gene][0]+'\t'+str(gene_matches[gene][1])+'\t'+gene_names[gene] 
 
 

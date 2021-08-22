@@ -7,7 +7,7 @@ if len(sys.argv) < 3:
     exit()
 
 # SET TO BLAST LOCATIOMN ON YOUR MACHINE
-blast_DB_loc = '/usr/local/ncbi/blast/bin/makeblastdb'
+blast_DB_loc = '/usr/local/ncbi/bin/makeblastdb'
 i = sys.argv[2]
 
 arg1 = '-out nanoranaDB/nanorana.'+i
