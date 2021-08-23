@@ -2,7 +2,8 @@ import sys
 import os
 
 # location of blast on your machine
-blast_DB_loc = '/usr/local/ncbi/blast/bin/tblastn'
+blast_DB_loc = '/usr/local/ncbi/bin/tblastn'
+# blast_DB_loc = "/Users/rdtarvin/miniconda3/bin/tblastn"
 
 # arguments to blast
 arg0 = '-query output/LWS_in_tree.noHyph.With_tblastn.translated.fasta'

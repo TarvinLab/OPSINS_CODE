@@ -6,8 +6,9 @@ if len(sys.argv) < 3:
     print "input file is a fasta with the genome assembly, e.g., Oophaga.fa"
     exit()
 
-# SET TO BLAST LOCATIOMN ON YOUR MACHINE
+# SET TO BLAST LOCATION ON YOUR MACHINE
 blast_DB_loc = '/usr/local/ncbi/bin/makeblastdb'
+# blast_DB_loc = "/Users/rdtarvin/miniconda3/bin/makeblastdb"
 i = sys.argv[2]
 
 arg1 = '-out nanoranaDB/nanorana.'+i
