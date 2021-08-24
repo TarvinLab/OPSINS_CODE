@@ -116,19 +116,8 @@ for line in fh:
 for scaff in scaffs:
     myseq = ''
     for coordsall in scaffs[scaff]:
-#         if len(coordsall)>1:
-#             for coords in coordsall:
-#                 print ">"+scaff+' '+str(coords)
-# #                 print coords
-#                 if coords[3] == 0:
-#                     myseq += scaff_seqs[scaff][coords[1]:coords[2]]
-#                 else:
-#                     myseq += rev_comp(scaff_seqs[scaff][coords[1]:coords[2]])
-#             	print translate(myseq)
-#         else:
         coords = coordsall
-        print ">"+scaff+'_'+str(coords)
-#             print coords
+        print ">"+scaff+'_'+str(coords.replace(" ","_"))
         if coords[3] == 0:
             myseq += scaff_seqs[scaff][coords[1]:coords[2]]
         else:
