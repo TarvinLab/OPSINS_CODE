@@ -2,7 +2,7 @@ import sys
 import os
 
 # location of blast on your machine
-blast_DB_loc = '/usr/local/ncbi/blast/bin/tblastn'
+blast_DB_loc = '/usr/local/ncbi/bin/tblastn'
 
 # arguments to blast
 arg0 = '-query infiles/SWS2_example.protein.fasta'

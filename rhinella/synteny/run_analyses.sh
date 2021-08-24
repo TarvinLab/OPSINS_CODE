@@ -9,16 +9,16 @@
 # gunzip the file Oophaga.clean.newest.fa.gz and put it in the folder pumilio_data
  
 # Make blast db
-python2 make_blast_db.py rhinella_data/ONZH01.fasta 0
+python2.7 make_blast_db.py rhinella_data/ONZH01.fasta 0
 
 # running blast to determine the scaffold that contains LWS
-python2 run_blast.py RhinellaDB/Rhinella.0 0 6
+python2.7 run_blast.py RhinellaDB/Rhinella.0 0 6
 
 # find LWS scaffold at 1e-20 threshold
 myvar=$(cat output/LWS_results.0.6.txt | awk '{if($11 < 1e-20) print $2}'| sort | uniq)
 
 # find LWS and reverse complement
-python2 get_LWS_scaffolds.py rhinella_data/ONZH01.fasta $myvar > output/LWS_scaffold.fa
+python2.7 get_LWS_scaffolds.py rhinella_data/ONZH01.fasta $myvar > output/LWS_scaffold.fa
 
 # we used  MAFFT v7.453 (2019/Nov/8)
 # https://mafft.cbrc.jp/alignment/software/
