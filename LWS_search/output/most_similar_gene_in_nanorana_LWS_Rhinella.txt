@@ -1,0 +1,123 @@
+Dendrobates_pumilio_LWS_SRR8275033	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Dendrobates_ventrimaculatus_LWS_JCS	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Ischnocnema_paranaensis_LWS_DZUP116	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01010496.1_41556:41778	gi|1072251612|ref|XM_018555227.1|	2.7e-40	PREDICTED: Nanorana parkeri rhodopsin (RHO), mRNA
+Hyloxalus_azureiventris_LWS_NA	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Quasipaa_boulengeri_LWS_SRX2554902	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hymenochirus_curtipes_LWS_SRR5062015	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Cochranella_resplendens_LWS_SC6447	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01019223.1_62125:62425	gi|1072261745|ref|XM_018560714.1|	3.1e-64	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Rana_pipiens_LWS_SRR1185235	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Agalychnis_spurrelli_LWS_1078	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Atelopus_ignescens_LWS_SC5694	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hyloxalus_vertebralis_LWS_LAC2775	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hyloxalus_jacobuspetersi_LWS_HJMol3	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Atelopus_spumarius_LWS_SC419	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Xenopus_tropicalis_LWS_NM0011028611	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Allobates_kingsburyi_LWS_1146	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01022093.1_53324:53645	gi|1072262086|ref|XM_018560899.1|	6.51e-47	PREDICTED: Nanorana parkeri pinopsin-like (LOC108790594), mRNA
+Atelopus_varius_LWS_RDT0351	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hyloxalus_nexipus_LWS_TNHCFS1250	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Telmatobius_jelskii_LWS_CAP667	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Allobates_humilis_LWS_TNHCFS5555	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01004127.1_263017:263266	gi|1072277166|ref|XM_018569073.1|	1.25e-49	PREDICTED: Nanorana parkeri opsin-VA-like (LOC108797475), mRNA
+Dendrobates_leucomelas_LWS_TNHCFS5625	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Epipedobates_boulengerisSS_LWS_RDT0209	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01004127.1_218207:218588	gi|1072277166|ref|XM_018569073.1|	3e-66	PREDICTED: Nanorana parkeri opsin-VA-like (LOC108797475), mRNA
+Leucostethus_fraterdanieli_LWS_TNHCFS4974	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Ameerega_trivittata_LWS_RDT0162	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Epipedobates_boulengerisEspinosai_LWS_RDT0026	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Mannophryne_collaris_LWS_TNHCFS5595	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hyloxalus_delatorreae_LWS_CJHD4	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Epipedobates_anthonyi_LWS_TNHCFS6865	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Amazophrynella_minuta_LWS_RDT0093	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Allobates_femoralis_LWS_RDT0160	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Centrolene_heloderma_LWS_SC611	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01019223.1_64815:65064	gi|1072261745|ref|XM_018560714.1|	1.37e-64	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Rhinella_marina_LWS_ONZH01019223	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01022093.1_58008:58254	gi|1072262086|ref|XM_018560899.1|	1.08e-46	PREDICTED: Nanorana parkeri pinopsin-like (LOC108790594), mRNA
+ONZH01009304.1_33248:33488	gi|1072260864|ref|XM_018560231.1|	1.53e-44	PREDICTED: Nanorana parkeri pinopsin-like (LOC108790053), mRNA
+Dendrobates_histrionicus_LWS_TNHCFS4986	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Dendrobates_captivus_LWS_CJ5042	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Atelopus_limosus_LWS_RDT0357	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Allobates_spCanelos_LWS_NA	gi|1072261745|ref|XM_018560714.1|	1.36e-133	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Melanophryniscus_stelzneki_LWS_JCS	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Pyxicephalus_adspersus_LWS_PZQJ01000014	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01019223.1_64069:64249	gi|1072261745|ref|XM_018560714.1|	7.98e-62	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Mannophryne_riveroi_LWS_TNHCFS5643	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01020826.1_21279:21660	gi|1072251659|ref|XM_018555250.1|	4.3e-69	PREDICTED: Nanorana parkeri parapinopsin-like (LOC108786042), mRNA
+Phyllobates_terribilis_LWS_JCS	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Rhinella_spinulosa_LWS_SRX456145	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Dendrobates_galactonotus_LWS_CJmuscle	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01014703.1_45425:46289	gi|1072251102|ref|XM_018554953.1|	0.0	PREDICTED: Nanorana parkeri neuropeptide Y receptor type 2-like (LOC108785804), mRNA
+Hyla_cinerea_LWS_SRR3498299SRR3498304	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01020826.1_16535:16799	gi|1072251659|ref|XM_018555250.1|	3.09e-119	PREDICTED: Nanorana parkeri parapinopsin-like (LOC108786042), mRNA
+Ameerega_bilinguis_LWS_RDT0101	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Aromobates_albogutatussp2_LWS_TNHCFS5540	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Atelopus_exiguus_LWS_QCAZA21123	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Dendrobates_auratus_LWS_Daur7	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Lithodytes_lineatus_LWS_RDT0066	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hyla_arborea_LWS_SRR2157967	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Dendrobates_fantasticus_LWS_KS29	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Odorrana_margaretae_LWS_SRX317137	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Epipedobates_machalilla_LWS_TNHCFS6849	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Osornophryne_antisana_LWS_SC5957	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hyloxalus_infraguttatus_LWS_Hinfraguttatus	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Brachycephalus_izeckesohni_LWS_DZUP561B103	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Dendrobates_imitator_LWS_SRX5090076	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01019223.1_63356:63527	gi|1072261745|ref|XM_018560714.1|	1.26e-62	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Dendrobates_tinctorius_LWS_Dtinct2	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01004127.1_224255:224465	gi|1072277166|ref|XM_018569073.1|	2.54e-118	PREDICTED: Nanorana parkeri opsin-VA-like (LOC108797475), mRNA
+Atelopus_newspecies_LWS_CPTG1021	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Scaphiopus_couchii_LWS_SRR7817222	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hyloxalus_spCopal_Negro_LWS_RNAseq	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Rana_catesbeianus_LWS_LIAG020178222	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Brachycephalus_brunneus_LWS_DZUP511BPT5	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Allobates_zaparo_LWS_RDT0102	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hyloxalus_pulchellus_LWS_JCS	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Mantidactylus_betsileanus_LWS_SRR5115160	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Atelopus_flavescens_LWS_AF1845	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Craugastor_longirostris_LWS_SC5733	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Rheobates_palmatus_LWS_RDT0123	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Aromobates_saltuensis_LWS_TNHCFS5549	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Limnodynastes_peronii_LWS_SRX5507031	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Dendrobates_fulguritus_LWS_RDT0129	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Ceratophrys_cornuta_LWS_JCS	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Silverstoneia_erasmios_LWS_RDT0158	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01011499.1_164330:164585	gi|1072261797|ref|XM_018560743.1|	3.65e-51	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), short-wave-sensitive (OPN1SW), mRNA
+Hyloxalus_bocagei_LWS_QCAZ237259	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hyloxalus_awa_LWS_RDT0047	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Brachycephalus_pernix_LWS_DZUP556A38	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Allobates_talamancae_LWS_RDT0141	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01019223.1_40226:40466	gi|1072261745|ref|XM_018560714.1|	1.16e-78	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01019223.1_59048:59174	gi|1072261745|ref|XM_018560714.1|	2.72e-80	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Adenomera_andreae_LWS_SC6428_JCS	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Allobates_juanii_LWS_TNHCFS4981	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Colostethus_panamansis_LWS_Cin1she	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Brachycephalus_pombali_LWS_DZUP215MP3	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Silverstoneia_flotator_LWS_CF13Spbm	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Ameerega_parvula_LWS_TNHCFS1776	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Phyllobates_aurotaenia_LWS_RDT0126	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01022093.1_56244:56430	gi|1072262086|ref|XM_018560899.1|	7.51e-45	PREDICTED: Nanorana parkeri pinopsin-like (LOC108790594), mRNA
+Fejervarya_limnocharis_LWS_SRX683592	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Epipedobates_darwinwallacei_LWS_RDT0059	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Ameerega_hahneli_LWS_RDT0089	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01011499.1_153881:154196	gi|1072261797|ref|XM_018560743.1|	2.63e-48	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), short-wave-sensitive (OPN1SW), mRNA
+Leucostethus_fugax_LWS_RDT0100	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Colostethus_pratti_LWS_Csp1Cilico	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Oreolalax_rhodostigmatus_LWS_SRX3371949M	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Mannophryne_venezuelensis_LWS_TNHCFS5646	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Phyllobates_vittatus_LWS_JCS	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hyloxalus_shuar_LWS_JCSRNAseq	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Telmatobius_marmuratus_LWS_AGC642	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Mannophryne_cordilleriana_LWS_TNHCFS5586	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Nanorana_parkeri_LWS_XM0185607141	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Hyloxalus_yasuni_LWS_QCAZ31143	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Dendrobates_bombetes_LWS_TNHCFS4972	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Ameerega_bassleri_LWS_16275	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+Epipedobates_tricolor_LWS_TNHCFS6843	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01020826.1_32576:32804	gi|1072251659|ref|XM_018555250.1|	1.69e-120	PREDICTED: Nanorana parkeri parapinopsin-like (LOC108786042), mRNA
+ONZH01009304.1_26003:26342	gi|1072260864|ref|XM_018560231.1|	3.02e-68	PREDICTED: Nanorana parkeri pinopsin-like (LOC108790053), mRNA
+Anomaloglossus_verbeeksnyderorum_LWS_TNHCFS5627	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
+ONZH01010496.1_43612:44008	gi|1072251612|ref|XM_018555227.1|	1.22e-72	PREDICTED: Nanorana parkeri rhodopsin (RHO), mRNA
+Epipedobates_narinensis_LWS_RDT0217	gi|1072261745|ref|XM_018560714.1|	0.0	PREDICTED: Nanorana parkeri opsin 1 (cone pigments), long-wave-sensitive (OPN1LW), mRNA
