@@ -32,5 +32,5 @@ do
 	python2.7 run_blast.nanorana.py ${frog} 6
 
 	# get best matching blast hit for each tblastn against Oophaga
-	python2.7 get_putative_ortholog_names.py output/Gene_annot_results.${frog}.6.tblastn.txt ../genome_sequences/Nanorana.fa > output/most_similar_gene_in_nanorana_${frog}.txt
+	python2.7 get_putative_ortholog_names.py output/Gene_annot_results.${frog}.SWS2.6.tblastn.txt ../genome_sequences/Nanorana.fa > output/most_similar_gene_in_nanorana_SWS2_${frog}.txt
 done
