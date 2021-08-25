@@ -19,7 +19,7 @@ def comp(l):
     return
 
 def rev_comp(s):
-    s = s[::-1]
+    s = s[::-1].upper()
     ret_s = ''
     for i in range(0,len(s)):
         ret_s += comp(s[i])
@@ -50,7 +50,7 @@ def translate(seq):
     protein ="" 
     if len(seq)%3 == 0: 
         for i in range(0, len(seq), 3): 
-            codon = seq[i:i + 3] 
+            codon = str(seq[i:i + 3]).upper()
             protein+= table[codon] 
     return protein 
 
@@ -106,9 +106,9 @@ for line in fh:
 
 # subset the sequences
 for scaff in scaffs:
-    print ">"+scaff
     myseq = ''
     for coords in scaffs[scaff]:
+        print ">"+scaff+'_'+str(coords).replace(" ","_")
         if coords[3] == 0:
             myseq += scaff_seqs[scaff][coords[1]:coords[2]]
         else:

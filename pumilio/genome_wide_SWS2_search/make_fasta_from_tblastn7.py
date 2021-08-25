@@ -106,9 +106,9 @@ for line in fh:
 
 # subset the sequences
 for scaff in scaffs:
-    print ">"+scaff
     myseq = ''
     for coords in scaffs[scaff]:
+    	print ">"+scaff+'_'+str(coords).replace(" ","_")
         if coords[3] == 0:
             myseq += scaff_seqs[scaff][coords[1]:coords[2]]
         else:

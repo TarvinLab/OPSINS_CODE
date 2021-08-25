@@ -117,7 +117,7 @@ for scaff in scaffs:
     myseq = ''
     for coordsall in scaffs[scaff]:
         coords = coordsall
-        print ">"+scaff+'_'+str(coords.replace(" ","_"))
+        print ">"+scaff+'_'+str(coords).replace(" ","_")
         if coords[3] == 0:
             myseq += scaff_seqs[scaff][coords[1]:coords[2]]
         else:
